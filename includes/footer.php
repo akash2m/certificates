@@ -1,17 +1,12 @@
- <div class="footer">
-     <div class="container">
-         <div class="strp">
-             <img src="images/ftr.png" alt=""/>
-         </div>
-         <div class="copywrite">
-             <p>Copyright © 2020 Online DJ Management System </p>
-         </div>
-         <div class="social-icons">
-              <a href="#"><i class="twitter"></i></a>
-              <a href="#"><i class="facebook"></i></a>      
-             <a href="#"><i class="flicker"></i></a>    
-             <a href="#"><i class="wifi"></i></a>
-         </div>
-         <div class="clearfix"></div>
-     </div>
-     </div> 
+<!-- Footer -->
+            <footer id="page-footer" class="opacity-0">
+                <div class="content py-20 font-size-xs clearfix">
+                    <div class="float-right">
+                        Crafted with <i class="fa fa-heart text-pulse"></i>
+                    </div>
+                    <div class="float-left">
+                       <h5 style="color: red"> Onlie DJ Management System </h5>
+                    </div>
+                </div>
+            </footer>
+            <!-- END Footer -->
